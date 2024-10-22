@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiokafka
+redis
+grpcio
+grpcio-tools
+# sqlite3
+python-jose
+protobuf==5.27.2

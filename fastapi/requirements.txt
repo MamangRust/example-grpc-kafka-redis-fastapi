@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiokafka
+grpcio
+grpcio-tools
+redis
+# sqlite3
+python-jose
+python-multipart
+protobuf==5.27.2
